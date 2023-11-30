@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews?select=reviews_0-250.csv
+https://huggingface.co/spaces/qothi/P2G7_sephora_review
